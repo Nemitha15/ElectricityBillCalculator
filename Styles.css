@@ -1,0 +1,19 @@
+h3{
+	margin-top:50px;
+	text-align:center;
+}
+
+table{
+	border: 1px solid black;
+	border-radius: 15px;
+	margin-left: auto; 
+	margin-right: auto;
+	padding: 15px;
+	border-spacing: 15px;
+}
+
+.term{
+	text-align:right;
+}
+
+
